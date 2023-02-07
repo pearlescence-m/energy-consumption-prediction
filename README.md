@@ -30,10 +30,10 @@ A Jupyter Notebook in this project has the following scope:
 <h2>Papers</h2>
 <p dir="auto">
     <ol dir="auto">
-        <li>Sathishkumar V E, Changsun Shin, Youngyun Cho, â€œEfficient energy consumption prediction model for a data analytic-enabled industry building in a smart cityâ€, Building Research & Information, Vol. 49. no. 1, pp. 127-143, 2021.</li>
-        <li>Sathishkumar V E, Myeongbae Lee, Jonghyun Lim, Yubin Kim, Changsun Shin, Jangwoo Park, Yongyun Cho, â€œAn Energy Consumption Prediction Model for Smart Factory using Data Mining Algorithmsâ€ KIPS Transactions on Software and Data Engineering, Vol. 9, no. 5, pp. 153-160, 2020.</li>
+        <li>Sathishkumar V E, Changsun Shin, Youngyun Cho, â€œEfficient energy consumption prediction model for a data analytic-enabled industry building in a smart city, Building Research & Information, Vol. 49. no. 1, pp. 127-143, 2021.</li>
+        <li>Sathishkumar V E, Myeongbae Lee, Jonghyun Lim, Yubin Kim, Changsun Shin, Jangwoo Park, Yongyun Cho, â€œAn Energy Consumption Prediction Model for Smart Factory using Data Mining Algorithms KIPS Transactions on Software and Data Engineering, Vol. 9, no. 5, pp. 153-160, 2020.</li>
 Transactions on Software and Data Engineering, Vol. 9, no. 5, pp. 153-160, 2020.
-        <li>Sathishkumar V E, Jonghyun Lim, Myeongbae Lee, Yongyun Cho, Jangwoo Park, Changsun Shin, and Yongyun Cho, â€œIndustry Energy Consumption Prediction Using Data Mining Techniquesâ€, International Journal of Energy Information and Communications, Vol. 11, no. 1, pp. 7-14, 2020. </li>
+        <li>Sathishkumar V E, Jonghyun Lim, Myeongbae Lee, Yongyun Cho, Jangwoo Park, Changsun Shin, and Yongyun Cho, â€œIndustry Energy Consumption Prediction Using Data Mining Techniques, International Journal of Energy Information and Communications, Vol. 11, no. 1, pp. 7-14, 2020. </li>
     </ol> 
 </p>
 
